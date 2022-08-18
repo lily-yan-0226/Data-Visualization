@@ -1,9 +1,13 @@
 # Data-Visualization
 Omniscient User’s Viewpoint System!
 Our system aims to show all kinds of perspectives of comic datasets for users to explore them. 
-![image](https://user-images.githubusercontent.com/81146202/185393949-309860e1-f052-4565-bc18-110c0b9a452d.png)
 Weekly View
-![image](https://user-images.githubusercontent.com/81146202/185394031-ecaef072-6b24-4a75-8c20-d1ebd4c6be76.png)
 Weekly view shows the dataset through weekdays, while users can also change the view sorted by likes, rating, views and subscribers. Moreover, users can look into the genre, status…and so on in the filter area which they would like to explore. 
-
-![image](https://user-images.githubusercontent.com/81146202/185394069-84bed80b-0789-4bf7-8832-489fb74a2ef7.png)
+![image](https://user-images.githubusercontent.com/81146202/185394222-a560eac2-6ed3-4f99-bf3d-eb38ee8358f9.png)
+Weekly View - Compare
+Compare function can help user to compare the comics which they selected (by double clicked the thumbnail).
+![image](https://user-images.githubusercontent.com/81146202/185394321-39ff93ca-5a05-4ccd-8f58-90f56956ca08.png)
+Bar Chart View
+It shows a dual axis comparison of different variables which users themselves can choose.  The Y-axis shows the result sorted by corresponded genre of comics, 
+while the X-axis shows the variables chosen by users.
+![image](https://user-images.githubusercontent.com/81146202/185394456-25e11ab7-b3db-4923-92bc-2ec1cac09964.png)
