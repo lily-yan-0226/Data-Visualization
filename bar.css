@@ -1,0 +1,97 @@
+#my_dataviz {
+  width: 75%;
+  margin: auto;
+}
+
+#buttonArea {
+  width: 60%;
+  margin: auto;
+  margin-bottom: 2%;
+  margin-top: 2%;
+}
+
+.img {
+  display: inline-block;
+  margin: 10px;
+}
+.center {
+  text-align: center;
+}
+
+.selectedImg {
+  height: 100px;
+  width: 100px;
+}
+
+#manga_info {
+  z-index: 10;
+  width: auto;
+  /* height: 100%; */
+  position: absolute;
+  top: 3%;
+  left: 5%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#data_type {
+  display: inline-block;
+  /* padding: 10px; */
+  text-align: center;
+}
+.data_genre {
+  display: block;
+  margin: 10px;
+}
+#hide {
+  top: 0;
+  right: 0;
+  position: absolute;
+  /* height: 40px;
+      width: 40px; */
+}
+.delComic {
+  width: 20px;
+  height: 20px;
+  /* top: 15px;
+  left: 100px; */
+  position: absolute;
+  z-index: 20;
+}
+
+.select_topright {
+  position: absolute;
+  top: 80px;
+  right: 50px;
+  font-size: 18px;
+}
+
+.axis-x line {
+  stroke: white;
+  stroke-width: 0.5;
+}
+
+.axis-x path {
+  stroke: white;
+  stroke-width: 0.5;
+}
+
+.axis-x text {
+  fill: white;
+  /* stroke-width: 0.5; */
+}
+
+.axis-y .tick {
+  /* stroke-width: 0.5; */
+  font-size: 12px;
+}
+
+.axis-y text {
+  fill: white;
+  /* stroke-width: 0.5; */
+}
+
+.axis-y-lable {
+  font-size: 12px;
+  fill: white;
+}
