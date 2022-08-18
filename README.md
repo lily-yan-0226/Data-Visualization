@@ -1,5 +1,6 @@
 # Data-Visualization
 Omniscient User’s Viewpoint System!
+
 Our system aims to show all kinds of perspectives of comic datasets for users to explore them. 
 Weekly View
 Weekly view shows the dataset through weekdays, while users can also change the view sorted by likes, rating, views and subscribers. Moreover, users can look into the genre, status…and so on in the filter area which they would like to explore. 
